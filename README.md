@@ -3,7 +3,7 @@
 #
 
 <h1 align="center">
-⚔️ Doenerium 🛡️
+⚔️ vera 🛡️
 </h1>
 
 <p align="center"> 
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  Telegram server: https://t.me/doenerium
+  
  </p>
 
 ## 🌐 〢 Content
